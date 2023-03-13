@@ -7,7 +7,8 @@
 你可以从该项目的[release](https://github.com/yuri2peter/electron-app-template/releases)中下载到带完整环境的模板，替换为自己的 app 源码后即可投入使用。
 
 - [懒人包 1.0.0](https://github.com/yuri2peter/electron-app-template/releases/tag/1.0.0)
-  > “懒”才是推进科技进步的第一生产力。
+
+> “懒”才是推进科技进步的第一生产力。
 
 ## 为什么需要它？
 
