@@ -25,13 +25,14 @@ Electron 的打包比较繁琐，还可能碰到网络问题打包失败。该�
   |- locales # 语言文件
   |- resources # 资源目录
     |- app # 应用目录
+      |- html # 静态html目录
       |- dist # 服务目录
-        |- main.js # 服务入口文件
       |- app.js # electron入口文件
+      |- .env # 服务环境变量文件
     |- app.exe # 启动应用
 ```
 
-Electron 入口文件默认设置启动 URL 为 `localhost:3000`，可以按需修改。
+默认启动一个 URL 为 `localhost:8080`的窗口，可以按需修改。
 
 ## 其他
 
